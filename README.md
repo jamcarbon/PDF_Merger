@@ -1,2 +1,2 @@
 # PDF_Merger
-SMall app with GUI to merge PDF files.
+Small app with GUI to merge PDF files.
